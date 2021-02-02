@@ -1,0 +1,22 @@
+Files Detail:
++rmi
+	+CORBA
+		-ClassDesc.java      	Total: 48,	Blank:  4,	685 Bytes
+		-GetORBPropertiesFileAction.java	Total:108,	Blank: 18,	2660 Bytes
+		-PortableRemoteObjectDelegate.java	Total: 84,	Blank:  9,	1929 Bytes
+		-Stub.java           	Total:261,	Blank: 43,	7679 Bytes
+		-StubDelegate.java   	Total: 93,	Blank: 10,	2169 Bytes
+		-Tie.java            	Total: 85,	Blank:  9,	1726 Bytes
+		-Util.java           	Total:421,	Blank: 55,	13813 Bytes
+		-UtilDelegate.java   	Total:135,	Blank: 19,	3070 Bytes
+		-ValueHandler.java   	Total: 96,	Blank:  9,	2816 Bytes
+		-ValueHandlerMultiFormat.java	Total: 70,	Blank:  4,	1970 Bytes
+	+ssl
+		-SslRMIClientSocketFactory.java	Total:212,	Blank: 10,	8013 Bytes
+		-SslRMIServerSocketFactory.java	Total:378,	Blank: 22,	14735 Bytes
+	-PortableRemoteObject.java	Total:293,	Blank: 42,	9411 Bytes
+Total:
+      13 Java Files
+    2284 lines in files
+     254 blank lines
+   70676 bytes
